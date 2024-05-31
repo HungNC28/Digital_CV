@@ -45,8 +45,10 @@
   .section-content-cert {
     grid-template-columns: 1fr;
   }
-  .section-certificate {
+  #certificate {
+    margin-right: 0;
     margin-left: 30px;
+    padding-left: 10px;
   }
   .certificate-1 {
     margin-top: 20px;
@@ -65,5 +67,11 @@
   }
   .section-content-project {
     width: 100%;
+  }
+  .item2 {
+    flex-direction: column;
+  }
+  .Developer {
+    margin-left: -20px;
   }
 }

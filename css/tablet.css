@@ -45,9 +45,23 @@
   .GPA {
     margin-top: 0;
   }
+  .cert1 {
+    height: 250px;
+  }
+  .cert2 {
+    height: 250px;
+  }
   /* Project */
   .section-project {
     padding-left: 20px;
     margin-bottom: 20px;
+  }
+  .item1-cv {
+    height: 79px;
+  }
+  .item3-cv,
+  .item3-web,
+  .item3-new {
+    height: 180px;
   }
 }

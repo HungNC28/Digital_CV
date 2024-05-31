@@ -120,12 +120,6 @@ i {
   margin-left: 2px;
   margin-bottom: 20px;
 }
-.image {
-  top: 0;
-  right: 0;
-  margin: 4px;
-  position: absolute;
-}
 .infor1 {
   width: 100px;
   display: inline-block;
@@ -407,9 +401,5 @@ footer {
   transform: scale(7);
   border: 1px solid white;
   border-radius: 50%;
-  z-index: 2;
-}
-/* Digital CV */
-.Digital {
-  color: #199cdb;
+  z-index: 1;
 }
